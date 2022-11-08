@@ -1,4 +1,4 @@
-# questly
+# Questly
 A responsive Q&amp;A site (front-end)
 
 <h4>Home Page:</h4>
